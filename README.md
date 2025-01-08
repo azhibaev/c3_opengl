@@ -19,3 +19,10 @@ And run the program:
 test/graph3
 ```
 To move, use the arrows on the additional numeric keypad in numlock mode. The "+" and "-" keys zoom in and out. The "5" key makes the initial scale.
+
+## Video tutorial
+
+
+https://github.com/user-attachments/assets/f5cd04e1-23bb-4c8e-a1e2-702dc37af9ee
+
+

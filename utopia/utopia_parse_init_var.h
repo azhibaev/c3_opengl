@@ -1,0 +1,2 @@
+PARAMETER_POINTER(char,f_in)
+PARAMETER_POINTER(char,path_out)

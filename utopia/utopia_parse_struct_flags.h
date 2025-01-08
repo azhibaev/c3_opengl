@@ -1,0 +1,6 @@
+ITEM_FLAG(module)
+ITEM_FLAG(struct)
+ITEM_FLAG(struct_flags)
+ITEM_FLAG(init)
+ITEM_FLAG(init_var)
+ITEM_FLAG(include)

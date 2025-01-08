@@ -1,0 +1,5 @@
+VAR(size_t,read_chars)
+VAR(size_t,write_chars)
+VAR(size_t,read_bytes)
+VAR(size_t,write_bytes)
+VAR_POINTER(FILE,f)

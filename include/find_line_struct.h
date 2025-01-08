@@ -1,0 +1,6 @@
+VAR_POINTER_INIT(list,lines)
+VAR_POINTER_INIT(list,lines2)
+VAR_POINTER_INIT(list,points)
+VAR(size_t,n)
+VAR(size_t,n_min)
+VAR(size_t,n_max)

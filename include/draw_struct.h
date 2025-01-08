@@ -1,0 +1,1 @@
+VAR_POINTER_INIT(list,f)

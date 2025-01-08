@@ -1,0 +1,20 @@
+p->width = width;
+p->height = height;
+p->scale = scale;
+char_string_read_char(p->window_name,
+		window_name);
+p_graph = p;
+p->fbo_id = 0;
+p->rb_id = 0;
+p->dx = p->width / p->scale / 2;
+p->dy = p->height / p->scale / 2;
+p->dz = 0;
+p->dx_step = 5;
+p->dy_step = 5;
+p->dz_step = 5;
+p->x_scale = 1;
+p->y_scale = 1;
+p->z_scale = 1;
+p->x_scale_step = 1.1;
+p->y_scale_step = 1.1;
+p->z_scale_step = 1.1;

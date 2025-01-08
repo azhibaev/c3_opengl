@@ -1,0 +1,10 @@
+VAR(int,a)
+VAR(char,c)
+VAR_POINTER_CREATE(char_string,s)
+VAR_POINTER_INIT(char_string,s1)
+VAR_POINTER_FREE(char_string,s2)
+VAR_POINTER(FILE,f)
+FLAGS(
+FLAG(init)
+FLAG(alloc)
+)

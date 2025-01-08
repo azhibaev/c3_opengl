@@ -1,0 +1,5 @@
+VAR_POINTER(list_item,begin)
+VAR_POINTER(list_item,read_pos)
+VAR_POINTER(list_item,end)
+VAR_POINTER(list_item,parent)
+VAR(size_t,size)

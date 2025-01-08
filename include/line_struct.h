@@ -1,0 +1,13 @@
+VAR(size_t,type)
+VAR(double,a)
+VAR(double,b)
+VAR(double,x)
+VAR(double,y)
+VAR(long long,x1)
+VAR(long long,y1)
+VAR(long long,x2)
+VAR(long long,y2)
+VAR(int,count)
+FLAGS(
+FLAG(init)
+)
